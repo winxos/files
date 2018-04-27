@@ -7,9 +7,9 @@
 			"msg":""
 		},
 		"pc_tools": {
-			"ver": "",
-			"url": "",
-			"msg":""
+			"ver": "1.3.0.0",
+			"url": "https://raw.githubusercontent.com/winxos/files/master/software/ungrain/ungrain.exe",
+			"msg":"hello"
 		}
 	}
 }]
