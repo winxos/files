@@ -1,10 +1,9 @@
 [{
 	"ungrain": {
 		"firmware": {
-			"hw": "0200",
-			"sw": "0200",
-			"url": "",
-			"msg":""
+			"ver": "03000101",
+			"url": "https://raw.githubusercontent.com/winxos/files/master/firmware/ungrain/03000101.bin",
+			"msg":"good"
 		},
 		"pc_tools": {
 			"ver": "1.3.0.0",
