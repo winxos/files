@@ -1,0 +1,12 @@
+{
+	"firmware": {
+		"ver": "03000101",
+		"url": "https://raw.githubusercontent.com/winxos/files/master/ungrain/firmware/03000101.bin",
+		"msg":"good"
+	},
+	"pctool_x64": {
+		"ver": "2.0.0.0",
+		"url": "https://raw.githubusercontent.com/winxos/files/master/ungrain/pctool_x64/ungrain.exe",
+		"msg":"https bug fix"
+	}
+}
